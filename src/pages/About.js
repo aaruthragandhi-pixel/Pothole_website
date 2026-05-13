@@ -10,7 +10,6 @@ const card = {
 
 const members = [
   { initials: 'DM', name: 'Darshan Malini Padmanabhan', color: '#f5a623' },
-  { initials: 'GR', name: 'GMS Rajkumar', color: '#e8522a' },
   { initials: 'DS', name: 'Deeksha Santhakumar', color: '#00d4aa' },
   { initials: 'AG', name: 'Aaruthra Gandhi', color: '#7c6fff' },
 ];
@@ -31,9 +30,9 @@ export default function About() {
           ABOUT <span style={{ color: 'var(--accent)' }}>US</span>
         </h2>
         <p style={{ color: 'var(--muted)', lineHeight: 1.9, maxWidth: 700, fontSize: '1.05rem' }}>
-          This solution is brought to you by four young innovators from TVS ACADEMY, Hosur
+          This solution is brought to you by three young innovators from TVS ACADEMY, Hosur
            who aim to transform the roads of today and make them safer for tomorrow.
-          <strong style={{ color: 'var(--text)', fontWeight: 500 }}> Darshan Malini Padmanabhan, GMS Rajkumar, Deeksha Santhakumar, and Aaruthra Gandhi </strong>
+          <strong style={{ color: 'var(--text)', fontWeight: 500 }}> Darshan Malini Padmanabhan, Deeksha Santhakumar, and Aaruthra Gandhi </strong>
           came together with a shared vision of solving real-world problems through technology. Combining skills in hardware, programming, design, and presentation,
           the team worked collaboratively to develop an AI-powered drone system for pothole detection and geotagging.
         </p>

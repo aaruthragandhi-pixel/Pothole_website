@@ -124,9 +124,9 @@ export default function App() {
       <footer style={{ textAlign: 'center', padding: '2rem', color: 'var(--muted)', fontSize: 12, borderTop: '1px solid var(--border)', marginTop: '3rem', fontFamily: 'var(--font-body)' }}>
         <span style={{ color: 'var(--accent)', fontFamily: 'var(--font-head)', fontWeight: 700 }}>POTHOLE DETECTION CLAN</span>
         <span style={{ margin: '0 0.75rem' }}>·</span>
-        Darshan · Rajkumar · Aaruthra · Deeksha
+        Darshan · Aaruthra · Deeksha
         <span style={{ margin: '0 0.75rem' }}>·</span>
-        Hosur, Tamil Nadu · Smart City Initiative 2025
+        Hosur, Tamil Nadu 
       </footer>
 
       <style>{`
