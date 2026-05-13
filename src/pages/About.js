@@ -11,7 +11,8 @@ const card = {
 const members = [
   { initials: 'DM', name: 'Darshan Malini Padmanabhan', color: '#f5a623' },
   { initials: 'DS', name: 'Deeksha Santhakumar', color: '#00d4aa' },
-  { initials: 'AG', name: 'Aaruthra Gandhi', color: '#7c6fff' },
+  { initials: 'AG', name: 'Aaruthra Gandhi' , color: '#7c6fff' },
+  
 ];
 
 const contactItems = [
